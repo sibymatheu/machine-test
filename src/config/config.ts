@@ -1,0 +1,1 @@
+export const API_URL = `https://u50g7n0cbj.execute-api.us-east-1.amazonaws.com/v2/measurements?limit=100&page=1&offset=0&sort=asc&country_id=IN&city=Kochi&order_by=datetime&radius=10&date_from=2000-01-01T00%3A00%3A00%2B00%3A00&date_to=2021-06-27T04%3A45%3A00%2B00%3A00` ;
